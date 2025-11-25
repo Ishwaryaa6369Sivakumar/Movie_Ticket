@@ -1,92 +1,90 @@
-A fully responsive and modern Movie Ticket Booking Web Application built using React, Material UI, and Context API.
-This project delivers a clean, intuitive, and user-friendly interface where users can smoothly navigate between pages such as Home, About, Login, and Register.
+🎬 Movie Ticket Booking Website
 
-Designed with professional UI patterns and modular React components, this application demonstrates strong frontend development skills including:
+A modern, fully responsive React-based Movie Ticket Booking Website built with Material UI, Context API, and a clean, visually appealing UI.
+This platform provides a smooth, user-friendly ticket booking experience with essential pages like Home, About, Login, Register, and more.
 
-Component-based architecture
+👩‍💻 My Role
 
-State management using Context API
+I was responsible for:
 
-Page routing using React Router
+Developing the entire front-end UI using React & Material UI
 
-Responsive design with Material UI
+Designing responsive layouts for all pages
 
-**👩‍💻 My Role in This Project**
+Implementing Context API for state management
 
-I developed this project independently with complete responsibility for:
+Building the Login & Registration functionality
 
-🧩 Frontend development using React
+Creating reusable components for a clean code structure
 
-🎨 UI/UX designing with Material UI
+Ensuring a smooth user experience with modern design principles
 
-🧭 Routing and navigation setup
+🚀 Features
 
-🗂️ Component structuring & folder architecture
+🎥 Modern Movie Ticket Booking Interface
 
-⚙️ State management using Context API
+📱 Fully Responsive UI
 
-🚀 Deployment on Netlify
+🎨 Clean Material UI Components
 
-🧪 Testing and optimizing the UI
+🔐 Login & Registration Pages
 
-This project showcases my ability to build responsive, modern web applications with clean code and professional design standards.
+👤 User Authentication Flow
 
-✨ Features
+📘 About Page with project details
 
-✔ Responsive UI using Material UI
+🏠 Home Page showing movie sections
 
-✔ Navigation Bar with links to all pages
+⚡ Fast & Smooth Navigation
 
-✔ Login & Registration Pages
+🧭 React Router Navigation
 
-✔ Attractive Home Page with movie theme
+🌐 Easy-to-extend front-end architecture
 
-✔ About Page explaining purpose & mission
-
-✔ Modular Components using React best practices
-
-✔ Deployed on Netlify
-
-✔ Clean folder structure
-
-| Category             | Technologies           |
-| -------------------- | ---------------------- |
-| **Frontend**         | React, JavaScript, JSX |
-| **UI Framework**     | Material UI (MUI)      |
-| **State Management** | React Context API      |
-| **Styling**          | CSS                    |
-| **Deployment**       | Netlify                |
-
+| Category             | Technologies              |
+| -------------------- | ------------------------- |
+| **Frontend**         | React.js, JSX, JavaScript |
+| **UI Library**       | Material UI (MUI)         |
+| **State Management** | Context API               |
+| **Routing**          | React Router              |
+| **Icons & Styling**  | MUI Icons, Custom CSS     |
+| **Build Tool**       | Vite / CRA                |
 
 📁 Folder Structure
 
 Movie-Ticket-Booking-App/
 │── public/
-│   ├── index.html
-│   └── favicon.ico
-│
-│── src/
-│   ├── components/
-│   ├── pages/
-│   │   ├── Home.js
-│   │   ├── About.js
-│   │   ├── Login.js
-│   │   └── Register.js
-│   ├── context/
-│   ├── App.js
-│   └── index.js
-│
-│── package.json
+│ ├── index.html 
+│ └── favicon.ico 
+│ │── src/ 
+│ ├── components/
+│ ├── pages/ 
+│ │ ├── Home.js 
+│ │ ├── About.js 
+│ │ ├── Login.js 
+│ │ └── Register.js
+│ ├── context/
+│ ├── App.js 
+│ └── index.js
+│ │── package.json
 │── README.md
+
+**📸 Screenshots**
 
 🏠 Home Page
 <p align="center"> <img src="https://github.com/Ishwaryaa6369Sivakumar/Movie_Ticket/assets/125282281/662cdc5e-7dc0-4d42-af23-669e13146b06" width="700"/> </p> <p align="center"> <img src="https://github.com/Ishwaryaa6369Sivakumar/Movie_Ticket/assets/125282281/df4562f0-1563-4399-bdde-56559eb6a212" width="700"/> </p> <p align="center"> <img src="https://github.com/Ishwaryaa6369Sivakumar/Movie_Ticket/assets/125282281/174008d4-bab3-47ac-853d-0f2b7fe5761f" width="700"/> </p> <p align="center"> <img src="https://github.com/Ishwaryaa6369Sivakumar/Movie_Ticket/assets/125282281/0524b1fd-285e-4651-a987-5e5321ead29e" width="700"/> </p>
+
+
 ℹ️ About Page
 <p align="center"> <img src="https://github.com/Ishwaryaa6369Sivakumar/Movie_Ticket/assets/125282281/e9fa9ecd-9bc7-42cc-8103-16c6a328aaf6" width="700"/> </p>
+
 🔐 Login Page
 <p align="center"> <img src="https://github.com/Ishwaryaa6369Sivakumar/Movie_Ticket/assets/125282281/b3ef892e-7751-4a4f-9168-b71741915085" width="700"/> </p>
+
 📝 Registration Page
 <p align="center"> <img src="https://github.com/Ishwaryaa6369Sivakumar/Movie_Ticket/assets/125282281/bc3344f3-b0d7-4116-a7e6-de15e03f03b7" width="700"/> </p> <p align="center"> <img src="https://github.com/Ishwaryaa6369Sivakumar/Movie_Ticket/assets/125282281/053fc6f3-7ada-4b84-8656-de7c40bbb58a" width="700"/> </p>
+
+
 ▶ How to Run Locally
 
 Follow these steps to run the project on your PC:
@@ -104,11 +102,11 @@ npm install
 npm start
 
 
+The app will run at:
+👉 http://localhost:3000/
+
 👩‍💻 Author
 
 Ishwaryaa Sivakumar
 📧 ishwaryaasowntarya@gmail.com
 🔗 GitHub: https://github.com/Ishwaryaa6369Sivakumar
-
-# CONFORMATION POP_UP PAGE
-![Screenshot 2023-12-22 114254](https://github.com/Ishwaryaa6369Sivakumar/Movie_Ticket/assets/125282281/2c7f9fc7-4d7d-4c59-ba85-e67de1a99771)
